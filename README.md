@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ras1n
-- 👀 I’m interested in ____
-- 🌱 I’m currently learning ____
-- 💞️ I’m looking to collaborate on ____
-- 📫 How to reach me ____
+- 👀 I’m interested in xxxx
+- 🌱 I’m currently learning xxx
+- 💞️ I’m looking to collaborate on xx
+- 📫 How to reach me x
 - NOTHING TO KNOW ~!
 <!---
 Ras1n/Ras1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
